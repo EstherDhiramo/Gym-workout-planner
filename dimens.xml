@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cover_headline">60dp</dimen>
+    <dimen name="countdown">144dp</dimen>
+    <dimen name="time_headline">72dp</dimen>
+    <dimen name="time_headline_small">24dp</dimen>
+    <dimen name="description_text">16dp</dimen>
+    <dimen name="header_height">168dp</dimen>
+    <dimen name="timeText_margin_top">24dp</dimen>
+</resources>

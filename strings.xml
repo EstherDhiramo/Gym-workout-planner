@@ -1,0 +1,126 @@
+<!-- @formatter:off -->
+<resources>
+    <string name="app_name">Feeel</string>
+
+    <string name="done_title">You did it!</string>
+    <string name="state_playing">Playing</string>
+    <string name="state_paused">Paused</string>
+
+    <string name="next_label">Next up: %s</string>
+    <string name="audio_halftime">%d seconds left</string>
+    <string name="audio_next">Next up: %s</string>
+    <string name="audio_break">Break!</string>
+    <string name="audio_done">You did it!</string>
+
+    <string name="workout_title_7minute">Scientific 7 minute workout</string>
+
+    <string name="exercise_title_jumpingjacks">Jumping jacks</string>
+    <string name="exercise_desc_jumpingjacks">
+        1. Stand with feet together and arms at the sides&lt;br/>
+        2. Jump to a position with the legs spread wide and the hands touching overhead&lt;br/>
+        3. Repeat
+    </string>
+
+    <string name="exercise_title_wallsit">Wall sit</string>
+    <string name="exercise_desc_wallsit">
+        1. Lean against the wall with feet planted firmly on the ground, shoulders width apart and about 2 feet away from the wall&lt;br/>
+        2. Slide down the wall, keeping the back pressed to it, until <b>legs are at a right angle</b>. The knees should be directly above the ankles&lt;br/>
+        &lt;br/>
+        Quadricep pain is normal, stop if feeling pain in the knee or kneecap
+    </string>
+
+    <string name="exercise_title_pushups">Push-ups</string>
+    <string name="exercise_desc_pushups">
+        1. Lie down on your stomach&lt;br/>
+        2. Place your hands near your ears&lt;br/>
+        3. Use your arms to lift your stomach up until the arms are straight, keeping the back straight&lt;br/>
+        4. Bend arms until chest almost touches the ground, making sure the back is straight&lt;br/>
+        5. Repeat from step 3
+    </string>
+
+    <string name="exercise_title_abcrunches">Ab crunches</string>
+    <string name="exercise_desc_abcrunches">
+        1. Lie down face up on the floor with knees bent.&lt;br/>
+        2. Curl the shoulders towards the pelvis. The hands can be behind or beside the neck or crossed over the chest.&lt;br/>
+        3. Repeat
+    </string>
+
+    <string name="exercise_title_stepups">Step-ups</string>
+    <string name="exercise_desc_stepups">
+        1. Stand facing a chair&lt;br/>
+        2. Step up onto the chair&lt;br/>
+        3. Step off the chair&lt;br/>
+        4. Repeat
+    </string>
+
+    <string name="exercise_title_squats">Squats</string>
+    <string name="exercise_desc_squats">
+        1. Stand with feet shoulder-width apart&lt;br/>
+        2. Move the hips back and bend the knees and hips to lower the torso&lt;br/>
+        3. Repeat
+    </string>
+
+    <string name="exercise_title_tricepsdips">Chair dips</string>
+    <string name="exercise_desc_tricepsdips">
+        1. Sit down on the front edge of a chair, back straight, hands holding the front edge&lt;br/>
+        2. Still holding the edge of the chair, arms extended, lift your butt and walk forward slightly so that it is a few inches from the chair.&lt;br/>
+        3. Slowly lower your body, keeping the back straight, until arms are at a right angle&lt;br/>
+        4. Raise your body again to the previous position, arms extended&lt;br/>
+        5. Repeat steps 3 and 4
+    </string>
+
+    <string name="exercise_title_plank">Plank</string>
+    <string name="exercise_desc_plank">
+        1. Get down on all fours, with arms straight and knees bent&lt;br/>
+        2. Walk your feet back until they are extended&lt;br/>
+        3. Hold this position
+    </string>
+
+    <string name="exercise_title_highknees">High knees</string>
+    <string name="exercise_desc_highknees">
+        1. Run in place, putting knees as high up as is comfortable and switching legs at a quick pace
+    </string>
+
+    <string name="exercise_title_lunges">Lunges</string>
+    <string name="exercise_desc_lunges">
+        1. Stand with back straight&lt;br/>
+        2. Take a large step forward with your left leg&lt;br/>
+        3. Bring your pelvis down until you almost touch the floor with your right knee&lt;br/>
+        4. Bring your pelvis back up&lt;br/>
+        5. Return to standing position by stepping back&lt;br/>
+        6. Repeat, switching legs each time
+    </string>
+
+    <string name="exercise_title_pushuprotations">Push-up rotations</string>
+    <string name="exercise_desc_pushuprotations">
+        1. Do a standard push-up:&lt;br/>
+        1.a Lie down on your stomach&lt;br/>
+        1.b Place your hands near your ears&lt;br/>
+        1.c Use your arms to lift your stomach up until the arms are straight, keeping the back straight&lt;br/>
+        1.d Bend arms until chest almost touches the ground, making sure the back is straight&lt;br/>
+        1.e Lift your stomach up again, returning to step 3&lt;br/>
+        2. Rotate your body to the side so that the back is straight, the bottom hand supporting the body is fully extended, and only the bottom hand and foot touch the floor&lt;br/>
+        3. Repeat, changing sides at step 6
+    </string>
+
+    <string name="exercise_title_sideplank_l">Side plank left</string>
+    <string name="exercise_desc_sideplank_l">
+        1. Lie down on your left side, with your bottom elbow at a right angle, arm sticking out&lt;br/>
+        2. Lift your pelvis off the floor by lifting your bottom shoulder up, keeping the forearm on the floor; your head, pelvis, and feet should be in a straight line&lt;br/>
+        3. Hold this position
+    </string>
+
+    <string name="exercise_title_sideplank_r">Side plank right</string>
+    <string name="exercise_desc_sideplank_r">
+        1. Lie down on your right side, with your bottom elbow at a right angle, arm sticking out&lt;br/>
+        2. Lift your pelvis off the floor by lifting your bottom shoulder up, keeping the forearm on the floor; your head, pelvis, and feet should be in a straight line&lt;br/>
+        3. Hold this position
+    </string>
+
+    <string name="start_workout">Start workout</string>
+    <string name="tap_indicator">Tap for controls</string>
+    <string name="btn_resume">Resume workout</string>
+    <string name="btn_previous">Previous exercise</string>
+    <string name="btn_next">Next exercise</string>
+    <string name="workout_title_fullbody">Full body workout</string>
+</resources>
